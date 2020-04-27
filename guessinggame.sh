@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-answer=15
+answer=$(ls -1 | wc -l)
 attempts=0
 
 function be_my_guess() {
