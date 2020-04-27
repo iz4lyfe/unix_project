@@ -1,4 +1,4 @@
-readme.md:
+readme.md:	guessinggame.sh
 	touch readme.md
 	echo "#Be My Guess" > readme.md
 	date >> readme.md
