@@ -1,4 +1,3 @@
 # Be My Guess
-Mon, Apr 27, 2020 12:06:40 PM
-guessinggame contains the following lines of code: 
+As of Mon, Apr 27, 2020  1:20:52 PM, guessinggame.sh contains the following lines of code: 
 26
